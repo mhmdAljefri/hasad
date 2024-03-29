@@ -1,0 +1,108 @@
+{
+  "navbar": {
+    "Home": "Home",
+    "Products": "Products",
+    "Our System": "Our System",
+    "About us": "About us"
+  },
+  "Company Owner": "Abullah S. Bawazir",
+  "CEO": "CEO",
+  "TRADING CO": "TRADING CO.",
+  "ceoWord": "MR. ABDULRAHMAN BAWAZIR, OUR ESTEEMED MANAGING DIRECTOR, BRINGS OVER A DECADE OF BROAD-SPECTRUM BUSINESS EXPERTISE TO OUR COMPANY. WITH A PROVEN TRACK RECORD IN FMCG, STRATEGIC PLANNING, DISTRIBUTOR MANAGEMENT, AND CONSUMER MARKETING, HE SPEARHEADS OUR VISIONARY JOURNEY",
+  "slogo": "Your Success Story Partner",
+  "Our Mission": "Our Mission",
+  "Our Vision": "Our Vision",
+  "Our Goals": "Our Goals",
+  "Who We Are": "Who We Are",
+  "AchievingBody": "Achieving the public benefit through which it contributes to reaching",
+
+  "Categories": "Categories",
+  "makeup": "makeup",
+  "perfume": "perfume",
+  "personalCare": "Personal Care",
+  "pet": "Pets Products",
+  "snack": "Snack",
+
+  "goals": [
+    {
+      "title": "Achieving",
+      "icon": "/images/svg-07.svg",
+      "body": "Achieving the public benefit through which it contributes to reaching the highest level of excellence, progress, and empowerment in the labor market in line with the King- dom's Vision 2030, especially in the field of care, beauty, and perfume products."
+    },
+    {
+      "title": "Achieving",
+      "icon": "/images/svg-07.svg",
+      "body": "Achieving the public benefit through which it contributes to reaching the highest level of excellence, progress, and empowerment in the labor market in line with the King- dom's Vision 2030, especially in the field of care, beauty, and perfume products."
+    },
+    {
+      "title": "Achieving",
+      "icon": "/images/svg-07.svg",
+      "body": "Achieving the public benefit through which it contributes to reaching the highest level of excellence, progress, and empowerment in the labor market in line with the King- dom's Vision 2030, especially in the field of care, beauty, and perfume products."
+    },
+    {
+      "title": "Achieving",
+      "icon": "/images/svg-07.svg",
+      "body": "Achieving the public benefit through which it contributes to reaching the highest level of excellence, progress, and empowerment in the labor market in line with the King- dom's Vision 2030, especially in the field of care, beauty, and perfume products."
+    }
+  ],
+
+  "How can we help you": "How can we help you",
+  "Workflow methods": "Workflow Methods",
+  "Tell us": "Tell us",
+  "Here": "Here",
+
+  "Our System": "Our System",
+  "aboutNetsuite": "SING ORACLE NETSUITE SYSTEM IMPROVES THE EFFICIENCY OF MANAGING INVENTORY, ORDERS, AND TRACKING. TECHNOLOGY INTEGRATION SOLVES THESE CHALLENGES RELATED TO ACCURACY, TIMELINESS, AND DATA MANAGEMENT.",
+
+  "DISTRIBUTION NETWORK": "DISTRIBUTION NETWORK",
+  "networks": [
+    {
+      "title": "PHARMACIES",
+      "icon": "/images/svg-07.svg",
+      "image": ""
+    },
+    {
+      "title": "PHARMACIES 1",
+      "icon": "/images/svg-07.svg",
+      "image": ""
+    },
+    {
+      "title": "PHARMACIES 2",
+      "icon": "/images/svg-07.svg",
+      "image": ""
+    },
+    {
+      "title": "PHARMACIES 3",
+      "icon": "/images/svg-07.svg",
+      "image": ""
+    }
+  ],
+
+  "Facts About Our Company": "Facts About Our Company",
+  "facts": [
+    {
+      "value": "35",
+      "type": "Years"
+    },
+    {
+      "value": "17 k",
+      "type": "SKUS",
+      "duration": 200
+    },
+    {
+      "value": "4 K",
+      "type": "Customers"
+    },
+    {
+      "value": "400",
+      "type": "Brand",
+      "duration": 200
+    }
+  ],
+
+  "Contact us": "Contact us",
+
+  "More": "More",
+  "For More": "For More",
+  "See More": "See More"
+}
