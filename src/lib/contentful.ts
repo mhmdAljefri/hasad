@@ -100,8 +100,8 @@ export const getEntryField = <
 
 const client = () =>
   createClient({
-    space: "qe56hk61gtiq",
-    accessToken: "8VFqx4OAsORMAB5-ZUoatELv_etqqpCtInad_jTr6zE",
+    space: "m2jc5m311l0i",
+    accessToken: "XPh1-niIcIfa94WQx-LKzr12SWop1Kyz2veW2kjObt4",
   });
 
 export const getAboutSection = (locale: string) =>
